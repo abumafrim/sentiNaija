@@ -94,11 +94,11 @@ The team involved in this project are:
 | Names | Institutions |
 | --- | --- | 
 | Shamsuddeen Muhammad | Bayero Universitu, Kano | 
-| Bello Shehu Bello| Bayero Universitu, Kano| |
+| Bello Shehu Bello | Bayero Universitu, Kano| |
 | Ibrahim Said Ahmad | Bayero Universitu, Kano |
-| Jade Abbot| Masakhane|
+| Jade Abbot | Masakhane |
 | Ahmad Shehu | American University of Nigeria |
-| Idris  | Ahmadu Bello University|
+| Idris Abdulmumin | Ahmadu Bello University |
 
 
 <!--
