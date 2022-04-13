@@ -41,7 +41,7 @@ This is a repository for SentiNaija project, a [Lacuna Fund](https://lacunafund.
 
   - [The problem](#The-problem)
   - [Language Resource Developed](#Language-Resource-Devloped)
-  - [papers from this project](#papers-from-this-project)
+  - [Papers from this project](#papers-from-this-project)
   - [The Team](#The-Team)
   - [Contact us](#contact-us)
   - [Glossary](#glossary)
